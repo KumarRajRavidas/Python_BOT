@@ -1,0 +1,11 @@
+1. Open cmd in the folder (use linux cmd)
+$ pip install -r requirements.txt
+
+Chrome must be opened & most updated
+open massage.txt file and past your all content, one content in one line and next line other content should be present.
+
+run following bot one by one 
+python pictory.py
+python colossyan.py
+python insta.py
+

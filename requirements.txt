@@ -1,0 +1,11 @@
+selenium
+gspread
+oauth2client
+BeautifulSoup4
+nltk
+undetected_chromedriver
+deep-translator
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
