@@ -1,4 +1,4 @@
-# Python_BOT
+# Python_BOT For AI Video making for Growth marketing
 
 create new folder(PRO) any where, inside it open cmd
 $ pip install virtualenv ==> create virtual enviroment
